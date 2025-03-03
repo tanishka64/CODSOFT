@@ -69,7 +69,7 @@ This repository contains my internship tasks, showcasing my approach to solving 
 
 ## 📞 Contact
 - **Email:** ambatitanishka@gmail.com
-- **GitHub:** https://github.com/dashboard
+- **GitHub:** https://github.com/tanishka64
 - **LinkedIn:** https://www.linkedin.com/in/ambati-tanishka/
 
 
